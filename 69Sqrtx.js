@@ -9,5 +9,8 @@
     }
 };
 
+
+//the diff live
+
 mySqrt(8)
-console.log(mySqrt(9))c
+console.log(mySqrt(9))
